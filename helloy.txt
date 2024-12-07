@@ -1,6 +1,6 @@
 import timeit
 import sys # Определяем количество элементов
-N = 1000 # Заполнение коллекций
+N = 10001 # Заполнение коллекций
 my_list = list(range(N))
 my_tuple = tuple(range(N))
 my_set = set(range(N)) # Функции для операций
